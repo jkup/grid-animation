@@ -1,0 +1,22 @@
+body {
+  background: black;
+}
+
+table,
+th,
+td {
+  border: 1px solid #333333;
+}
+
+.gridItem {
+  width: 5px;
+  height: 5px;
+}
+
+.blue {
+  background: #00ada4;
+}
+
+.pink {
+  background: #ff0059;
+}
